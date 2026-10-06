@@ -12,8 +12,4 @@ About Me:
 ![](https://streak-stats.demolab.com/?user=sarthak-codes11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthak-codes11&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
