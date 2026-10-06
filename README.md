@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**sarthak-codes11/sarthak-codes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+About Me:
 ## About Me<br><br>I’m **Sarthak**, a Computer Science Engineering student interested in **software development, AI/ML, and building practical products**.<br><br>I work across the stack with **React, TypeScript, Next.js, Node.js, Python, Firebase, Supabase, PostgreSQL, and REST APIs**, and I use tools like **Docker, Git, GitHub, Vercel, and Linux** to build, deploy, and manage projects.<br><br>I enjoy experimenting with **AI APIs, modern web technologies, and developer tools**, while constantly learning and improving through real-world projects and hackathons.<br><br>Currently building, breaking, debugging, and shipping.
 
 
